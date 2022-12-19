@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk&family=Poppins:ital,wght@0,100;0,200;1,100;1,200&display=swap');
+body
+{
+    margin: 0;
+    padding: 0;
+    max-width: 5000px;
+    max-height: 100px;
+    font-family: 'Poppins', sans-serif;
+    display: center;
+    align-items: center;
+    justify-content: center;
+   height: 100vh;
+   text-align: justify;
+   background-color: #000;
+}
+p
+{
+    font-size: 10px;
+    
+    background: url(meow.jpg);
+    background-attachment: center;
+    -webkit-background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    opacity: 100px;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    background-attachment:center;
+    -webkit-text-fill-color: rgba(255, 255,255,0);    
+    
+}
